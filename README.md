@@ -69,9 +69,27 @@ npm start
 
 The daemon will log its initialization status, run an immediate sync check, and then sleep until the next poll interval.
 
+### Deep Historical Sync
+
+If you want to fetch all of your old submissions from months or years ago:
+1. Ensure your app is running
+2. Temporarily trigger the historical sync endpoint by visiting or curling `http://localhost:3000/api/sync-all` (or your deployed URL `https://your-app.railway.app/api/sync-all`)
+3. The background daemon will start paginating through your entire history to secure old submissions.
+
 ## How it Works
 
 1. Queries the LeetCode GraphQL API for your most recent accepted submissions.
 2. Checks against the local `.sync_state.json` file to ignore submissions that have already been synced.
 3. For new submissions, queries the GraphQL API again using your `LEETCODE_SESSION` cookie to retrieve your actual submitted code block and language details.
 4. Uses the GitHub REST API to perform `PUT` requests, committing standard file structures directly to your target repository branch.
+
+## Frequently Asked Questions
+
+**Does the LeetCode session change every time?**  
+No, the `LEETCODE_SESSION` cookie does *not* change every time you submit code. However, it is fundamentally a browser session cookie, which means it **will expire eventually** (usually every 14 to 30 days of inactivity).  
+If LeetSync suddenly stops syncing or you start seeing `LEETCODE_SESSION` authorization errors in your server logs:
+1. Log back into LeetCode on your browser.
+2. Grab the new `LEETCODE_SESSION` cookie value.
+3. Update your environment variables on Railway and restart the service.
+
+*(Note: Explicitly clicking "Sign Out" on the LeetCode website will immediately invalidate your active cookie).*
