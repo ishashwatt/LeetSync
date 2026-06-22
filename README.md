@@ -1,20 +1,77 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# LeetSync
 
-# Run and deploy your AI Studio app
+A lightweight Node.js background daemon that automatically synchronizes your accepted LeetCode submissions directly to a GitHub repository. 
 
-This contains everything you need to run your app locally.
+No frontend interaction is required. Once configured, simply run the daemon on any server, and it will continuously poll your LeetCode profile for new solutions and commit them using the GitHub API.
 
-View your app in AI Studio: https://ai.studio/apps/35cdafda-4ebe-4eed-a39d-e670afce665b
+## Features
 
-## Run Locally
+- **Automated Synchronization**: Runs continuously in the background polling for updates.
+- **Clean Structure**: Creates a dedicated folder for each problem (e.g. `0001-two-sum/`).
+- **Full Problem Details**: Commits both your solution code (with the correct language extension) and a `README.md` containing the problem description and difficulty.
+- **Stateless Operation**: Keeps track of synced submissions locally in a `.sync_state.json` file.
+- **Frontend-Free**: A pure backend engine designed for deployment on lightweight servers or local environments.
 
-**Prerequisites:**  Node.js
+## Prerequisites
 
+- **Node.js** (v18 or higher recommended)
+- **LeetCode Session Cookie**: You must extract your `LEETCODE_SESSION` cookie from a logged-in browser session.
+- **GitHub Personal Access Token**: Requires a token with `repo` scopes to commit files to your repository.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Configuration
+
+Provide the following environment variables (either in a `.env` file or exported to your environment). 
+
+```env
+# Your LeetCode username
+LEETCODE_USERNAME="your_leetcode_username"
+
+# Your LeetCode session cookie (essential for fetching private code submissions)
+LEETCODE_SESSION="your_leetcode_cookie_here"
+
+# Your GitHub Access Token
+GITHUB_TOKEN="ghp_your_personal_access_token"
+
+# The GitHub account username that owns the repo
+GITHUB_OWNER="your_github_username"
+
+# The destination GitHub repository name (e.g. "leetcode-solutions")
+GITHUB_REPO="your_leetcode_repository_name"
+
+# Optional: How often the script should check LeetCode (in minutes, defaults to 5)
+POLL_INTERVAL_MINUTES=5
+```
+
+## Installation
+
+1. Clone or download this repository.
+2. Install the dependencies:
+   ```bash
+   npm install
+   ```
+
+## Running the Daemon
+
+### Development Mode
+
+Run the app using the development script:
+```bash
+npm run dev
+```
+
+### Production Mode
+
+Build the project and start the compiled backend:
+```bash
+npm run build
+npm start
+```
+
+The daemon will log its initialization status, run an immediate sync check, and then sleep until the next poll interval.
+
+## How it Works
+
+1. Queries the LeetCode GraphQL API for your most recent accepted submissions.
+2. Checks against the local `.sync_state.json` file to ignore submissions that have already been synced.
+3. For new submissions, queries the GraphQL API again using your `LEETCODE_SESSION` cookie to retrieve your actual submitted code block and language details.
+4. Uses the GitHub REST API to perform `PUT` requests, committing standard file structures directly to your target repository branch.

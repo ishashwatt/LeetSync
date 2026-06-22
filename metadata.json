@@ -2,5 +2,5 @@
   "name": "LeetSync",
   "description": "Automatically syncs LeetCode submissions to a GitHub repository in the background.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
