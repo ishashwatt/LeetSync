@@ -1,11 +1,8 @@
 # LeetCode Topics
 
 ## Array
-- [0152 Maximum Product Subarray](./0152-maximum-product-subarray)
-- [0169 Majority Element](./0169-majority-element)
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 - [0724 Find Pivot Index](./0724-find-pivot-index)
-- [0904 Fruit Into Baskets](./0904-fruit-into-baskets)
 - [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
 - [1840 Maximum Building Height](./1840-maximum-building-height)
 - [1929 Concatenation of Array](./1929-concatenation-of-array)
@@ -15,21 +12,12 @@
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 
 ## Counting
-- [0169 Majority Element](./0169-majority-element)
 - [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 
 ## Design
 - [3408 Design Task Manager](./3408-design-task-manager)
 
-## Divide and Conquer
-- [0169 Majority Element](./0169-majority-element)
-
-## Dynamic Programming
-- [0152 Maximum Product Subarray](./0152-maximum-product-subarray)
-
 ## Hash Table
-- [0169 Majority Element](./0169-majority-element)
-- [0904 Fruit Into Baskets](./0904-fruit-into-baskets)
 - [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 - [3408 Design Task Manager](./3408-design-task-manager)
 
@@ -62,11 +50,7 @@
 - [1518 Water Bottles](./1518-water-bottles)
 - [1929 Concatenation of Array](./1929-concatenation-of-array)
 
-## Sliding Window
-- [0904 Fruit Into Baskets](./0904-fruit-into-baskets)
-
 ## Sorting
-- [0169 Majority Element](./0169-majority-element)
 - [1840 Maximum Building Height](./1840-maximum-building-height)
 
 ## String
