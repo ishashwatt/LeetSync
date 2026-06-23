@@ -30,6 +30,7 @@
 
 ## Dynamic Programming
 - [0152 Maximum Product Subarray](./0152-maximum-product-subarray)
+- [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 
 ## Hash Table
 - [0169 Majority Element](./0169-majority-element)
@@ -59,6 +60,7 @@
 - [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
 - [2106 Maximum Fruits Harvested After at Most K Steps](./2106-maximum-fruits-harvested-after-at-most-k-steps)
 - [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
+- [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 
 ## Recursion
 - [0326 Power of Three](./0326-power-of-three)
