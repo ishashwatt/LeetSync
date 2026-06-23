@@ -2,42 +2,21 @@
 
 ## Array
 - [0152 Maximum Product Subarray](./0152-maximum-product-subarray)
-- [0169 Majority Element](./0169-majority-element)
-- [0724 Find Pivot Index](./0724-find-pivot-index)
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
+- [1840 Maximum Building Height](./1840-maximum-building-height)
 
 ## Counting
-- [0169 Majority Element](./0169-majority-element)
-
-## Design
-- [3408 Design Task Manager](./3408-design-task-manager)
-
-## Divide and Conquer
-- [0169 Majority Element](./0169-majority-element)
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 
 ## Dynamic Programming
 - [0152 Maximum Product Subarray](./0152-maximum-product-subarray)
 
 ## Hash Table
-- [0169 Majority Element](./0169-majority-element)
-- [3408 Design Task Manager](./3408-design-task-manager)
-
-## Heap (Priority Queue)
-- [3408 Design Task Manager](./3408-design-task-manager)
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 
 ## Math
 - [0326 Power of Three](./0326-power-of-three)
 - [1518 Water Bottles](./1518-water-bottles)
-
-## Matrix
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
-
-## Ordered Set
-- [3408 Design Task Manager](./3408-design-task-manager)
-
-## Prefix Sum
-- [0724 Find Pivot Index](./0724-find-pivot-index)
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
+- [1840 Maximum Building Height](./1840-maximum-building-height)
 
 ## Recursion
 - [0326 Power of Three](./0326-power-of-three)
@@ -46,5 +25,8 @@
 - [1518 Water Bottles](./1518-water-bottles)
 
 ## Sorting
-- [0169 Majority Element](./0169-majority-element)
+- [1840 Maximum Building Height](./1840-maximum-building-height)
+
+## String
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 
