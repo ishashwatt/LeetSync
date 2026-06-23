@@ -9,11 +9,7 @@
 - [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
 - [1840 Maximum Building Height](./1840-maximum-building-height)
 - [1929 Concatenation of Array](./1929-concatenation-of-array)
-- [2106 Maximum Fruits Harvested After at Most K Steps](./2106-maximum-fruits-harvested-after-at-most-k-steps)
 - [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
-
-## Binary Search
-- [2106 Maximum Fruits Harvested After at Most K Steps](./2106-maximum-fruits-harvested-after-at-most-k-steps)
 
 ## Breadth-First Search
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
@@ -58,7 +54,6 @@
 ## Prefix Sum
 - [0724 Find Pivot Index](./0724-find-pivot-index)
 - [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
-- [2106 Maximum Fruits Harvested After at Most K Steps](./2106-maximum-fruits-harvested-after-at-most-k-steps)
 - [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 - [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 
@@ -71,7 +66,6 @@
 
 ## Sliding Window
 - [0904 Fruit Into Baskets](./0904-fruit-into-baskets)
-- [2106 Maximum Fruits Harvested After at Most K Steps](./2106-maximum-fruits-harvested-after-at-most-k-steps)
 
 ## Sorting
 - [0169 Majority Element](./0169-majority-element)
