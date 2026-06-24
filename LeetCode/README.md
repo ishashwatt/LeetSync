@@ -2,6 +2,7 @@
 
 ## Array
 - [0152 Maximum Product Subarray](./0152-maximum-product-subarray)
+- [0169 Majority Element](./0169-majority-element)
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 - [0724 Find Pivot Index](./0724-find-pivot-index)
 - [0904 Fruit Into Baskets](./0904-fruit-into-baskets)
@@ -14,16 +15,21 @@
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 
 ## Counting
+- [0169 Majority Element](./0169-majority-element)
 - [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 
 ## Design
 - [3408 Design Task Manager](./3408-design-task-manager)
+
+## Divide and Conquer
+- [0169 Majority Element](./0169-majority-element)
 
 ## Dynamic Programming
 - [0152 Maximum Product Subarray](./0152-maximum-product-subarray)
 - [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 
 ## Hash Table
+- [0169 Majority Element](./0169-majority-element)
 - [0904 Fruit Into Baskets](./0904-fruit-into-baskets)
 - [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 - [3408 Design Task Manager](./3408-design-task-manager)
@@ -62,6 +68,7 @@
 - [0904 Fruit Into Baskets](./0904-fruit-into-baskets)
 
 ## Sorting
+- [0169 Majority Element](./0169-majority-element)
 - [1840 Maximum Building Height](./1840-maximum-building-height)
 
 ## String
