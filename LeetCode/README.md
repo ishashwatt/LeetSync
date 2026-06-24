@@ -1,7 +1,6 @@
 # LeetCode Topics
 
 ## Array
-- [0152 Maximum Product Subarray](./0152-maximum-product-subarray)
 - [0169 Majority Element](./0169-majority-element)
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 - [0724 Find Pivot Index](./0724-find-pivot-index)
@@ -24,7 +23,6 @@
 - [0169 Majority Element](./0169-majority-element)
 
 ## Dynamic Programming
-- [0152 Maximum Product Subarray](./0152-maximum-product-subarray)
 - [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 
 ## Hash Table
