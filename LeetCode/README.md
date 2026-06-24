@@ -1,18 +1,11 @@
 # LeetCode Topics
 
 ## Array
-- [0904 Fruit Into Baskets](./0904-fruit-into-baskets)
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
+- [1840 Maximum Building Height](./1840-maximum-building-height)
 
-## Hash Table
-- [0904 Fruit Into Baskets](./0904-fruit-into-baskets)
+## Math
+- [1840 Maximum Building Height](./1840-maximum-building-height)
 
-## Matrix
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
-
-## Prefix Sum
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
-
-## Sliding Window
-- [0904 Fruit Into Baskets](./0904-fruit-into-baskets)
+## Sorting
+- [1840 Maximum Building Height](./1840-maximum-building-height)
 
