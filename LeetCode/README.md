@@ -14,6 +14,7 @@
 
 ## Counting
 - [0169 Majority Element](./0169-majority-element)
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 
 ## Design
 - [3408 Design Task Manager](./3408-design-task-manager)
@@ -21,8 +22,12 @@
 ## Divide and Conquer
 - [0169 Majority Element](./0169-majority-element)
 
+## Dynamic Programming
+- [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
+
 ## Hash Table
 - [0169 Majority Element](./0169-majority-element)
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 - [3408 Design Task Manager](./3408-design-task-manager)
 
 ## Heap (Priority Queue)
@@ -46,6 +51,7 @@
 - [0724 Find Pivot Index](./0724-find-pivot-index)
 - [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
 - [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
+- [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 
 ## Recursion
 - [0326 Power of Three](./0326-power-of-three)
@@ -57,4 +63,7 @@
 ## Sorting
 - [0169 Majority Element](./0169-majority-element)
 - [1840 Maximum Building Height](./1840-maximum-building-height)
+
+## String
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 
