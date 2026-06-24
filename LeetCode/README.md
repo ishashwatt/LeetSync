@@ -21,6 +21,7 @@
 ## Dynamic Programming
 - [0152 Maximum Product Subarray](./0152-maximum-product-subarray)
 - [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
+- [3700 Number of ZigZag Arrays II](./3700-number-of-zigzag-arrays-ii)
 
 ## Hash Table
 - [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
@@ -35,6 +36,7 @@
 - [1344 Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock)
 - [1518 Water Bottles](./1518-water-bottles)
 - [1840 Maximum Building Height](./1840-maximum-building-height)
+- [3700 Number of ZigZag Arrays II](./3700-number-of-zigzag-arrays-ii)
 
 ## Matrix
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
