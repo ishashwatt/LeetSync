@@ -1,20 +1,8 @@
 # LeetCode Topics
 
-## Design
-- [3408 Design Task Manager](./3408-design-task-manager)
+## Dynamic Programming
+- [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 
-## Hash Table
-- [3408 Design Task Manager](./3408-design-task-manager)
-
-## Heap (Priority Queue)
-- [3408 Design Task Manager](./3408-design-task-manager)
-
-## Math
-- [0326 Power of Three](./0326-power-of-three)
-
-## Ordered Set
-- [3408 Design Task Manager](./3408-design-task-manager)
-
-## Recursion
-- [0326 Power of Three](./0326-power-of-three)
+## Prefix Sum
+- [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 
