@@ -1,17 +1,12 @@
 # LeetCode Topics
 
-## Array
-- [0169 Majority Element](./0169-majority-element)
+## Dynamic Programming
+- [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
+- [3700 Number of ZigZag Arrays II](./3700-number-of-zigzag-arrays-ii)
 
-## Counting
-- [0169 Majority Element](./0169-majority-element)
+## Math
+- [3700 Number of ZigZag Arrays II](./3700-number-of-zigzag-arrays-ii)
 
-## Divide and Conquer
-- [0169 Majority Element](./0169-majority-element)
-
-## Hash Table
-- [0169 Majority Element](./0169-majority-element)
-
-## Sorting
-- [0169 Majority Element](./0169-majority-element)
+## Prefix Sum
+- [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 
