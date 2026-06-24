@@ -1,13 +1,11 @@
 # LeetCode Topics
 
 ## Array
-- [0152 Maximum Product Subarray](./0152-maximum-product-subarray)
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 - [0724 Find Pivot Index](./0724-find-pivot-index)
 - [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
 - [1840 Maximum Building Height](./1840-maximum-building-height)
 - [1929 Concatenation of Array](./1929-concatenation-of-array)
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 
 ## Breadth-First Search
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
@@ -19,7 +17,6 @@
 - [3408 Design Task Manager](./3408-design-task-manager)
 
 ## Dynamic Programming
-- [0152 Maximum Product Subarray](./0152-maximum-product-subarray)
 - [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 - [3700 Number of ZigZag Arrays II](./3700-number-of-zigzag-arrays-ii)
 
@@ -40,7 +37,6 @@
 
 ## Matrix
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 
 ## Ordered Set
 - [3408 Design Task Manager](./3408-design-task-manager)
@@ -48,7 +44,6 @@
 ## Prefix Sum
 - [0724 Find Pivot Index](./0724-find-pivot-index)
 - [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 - [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 
 ## Recursion
