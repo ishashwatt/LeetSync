@@ -1,11 +1,8 @@
 # LeetCode Topics
 
-## Array
-- [0904 Fruit Into Baskets](./0904-fruit-into-baskets)
+## Dynamic Programming
+- [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 
-## Hash Table
-- [0904 Fruit Into Baskets](./0904-fruit-into-baskets)
-
-## Sliding Window
-- [0904 Fruit Into Baskets](./0904-fruit-into-baskets)
+## Prefix Sum
+- [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 
