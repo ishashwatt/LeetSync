@@ -1,11 +1,32 @@
 # LeetCode Topics
 
 ## Array
-- [0904 Fruit Into Baskets](./0904-fruit-into-baskets)
+- [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
+- [1840 Maximum Building Height](./1840-maximum-building-height)
+- [1929 Concatenation of Array](./1929-concatenation-of-array)
+
+## Counting
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
+
+## Dynamic Programming
+- [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 
 ## Hash Table
-- [0904 Fruit Into Baskets](./0904-fruit-into-baskets)
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 
-## Sliding Window
-- [0904 Fruit Into Baskets](./0904-fruit-into-baskets)
+## Math
+- [1840 Maximum Building Height](./1840-maximum-building-height)
+
+## Prefix Sum
+- [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
+- [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
+
+## Simulation
+- [1929 Concatenation of Array](./1929-concatenation-of-array)
+
+## Sorting
+- [1840 Maximum Building Height](./1840-maximum-building-height)
+
+## String
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 
