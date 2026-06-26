@@ -1,27 +1,17 @@
 # LeetCode Topics
 
 ## Array
-- [0169 Majority Element](./0169-majority-element)
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 - [0724 Find Pivot Index](./0724-find-pivot-index)
-- [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
-- [1929 Concatenation of Array](./1929-concatenation-of-array)
 - [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 
 ## Breadth-First Search
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 
-## Counting
-- [0169 Majority Element](./0169-majority-element)
-
 ## Design
 - [3408 Design Task Manager](./3408-design-task-manager)
 
-## Divide and Conquer
-- [0169 Majority Element](./0169-majority-element)
-
 ## Hash Table
-- [0169 Majority Element](./0169-majority-element)
 - [3408 Design Task Manager](./3408-design-task-manager)
 
 ## Heap (Priority Queue)
@@ -30,7 +20,6 @@
 
 ## Math
 - [0326 Power of Three](./0326-power-of-three)
-- [1344 Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock)
 - [1518 Water Bottles](./1518-water-bottles)
 
 ## Matrix
@@ -42,7 +31,6 @@
 
 ## Prefix Sum
 - [0724 Find Pivot Index](./0724-find-pivot-index)
-- [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
 - [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 
 ## Recursion
@@ -50,8 +38,4 @@
 
 ## Simulation
 - [1518 Water Bottles](./1518-water-bottles)
-- [1929 Concatenation of Array](./1929-concatenation-of-array)
-
-## Sorting
-- [0169 Majority Element](./0169-majority-element)
 
