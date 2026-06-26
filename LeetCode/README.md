@@ -1,23 +1,17 @@
 # LeetCode Topics
 
 ## Array
-- [0169 Majority Element](./0169-majority-element)
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
+- [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
+- [1929 Concatenation of Array](./1929-concatenation-of-array)
 
 ## Breadth-First Search
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 
-## Counting
-- [0169 Majority Element](./0169-majority-element)
-
 ## Design
 - [3408 Design Task Manager](./3408-design-task-manager)
 
-## Divide and Conquer
-- [0169 Majority Element](./0169-majority-element)
-
 ## Hash Table
-- [0169 Majority Element](./0169-majority-element)
 - [3408 Design Task Manager](./3408-design-task-manager)
 
 ## Heap (Priority Queue)
@@ -35,12 +29,13 @@
 ## Ordered Set
 - [3408 Design Task Manager](./3408-design-task-manager)
 
+## Prefix Sum
+- [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
+
 ## Recursion
 - [0326 Power of Three](./0326-power-of-three)
 
 ## Simulation
 - [1518 Water Bottles](./1518-water-bottles)
-
-## Sorting
-- [0169 Majority Element](./0169-majority-element)
+- [1929 Concatenation of Array](./1929-concatenation-of-array)
 
