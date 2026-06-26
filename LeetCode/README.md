@@ -17,6 +17,8 @@
 - [3408 Design Task Manager](./3408-design-task-manager)
 
 ## Math
+- [0326 Power of Three](./0326-power-of-three)
+- [1344 Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock)
 - [1518 Water Bottles](./1518-water-bottles)
 
 ## Matrix
@@ -24,6 +26,9 @@
 
 ## Ordered Set
 - [3408 Design Task Manager](./3408-design-task-manager)
+
+## Recursion
+- [0326 Power of Three](./0326-power-of-three)
 
 ## Simulation
 - [1518 Water Bottles](./1518-water-bottles)
