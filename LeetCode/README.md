@@ -1,24 +1,28 @@
 # LeetCode Topics
 
 ## Array
-- [0169 Majority Element](./0169-majority-element)
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
+- [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
+- [1840 Maximum Building Height](./1840-maximum-building-height)
+- [1929 Concatenation of Array](./1929-concatenation-of-array)
 
 ## Counting
-- [0169 Majority Element](./0169-majority-element)
-
-## Divide and Conquer
-- [0169 Majority Element](./0169-majority-element)
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 
 ## Hash Table
-- [0169 Majority Element](./0169-majority-element)
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 
-## Matrix
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
+## Math
+- [1840 Maximum Building Height](./1840-maximum-building-height)
 
 ## Prefix Sum
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
+- [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
+
+## Simulation
+- [1929 Concatenation of Array](./1929-concatenation-of-array)
 
 ## Sorting
-- [0169 Majority Element](./0169-majority-element)
+- [1840 Maximum Building Height](./1840-maximum-building-height)
+
+## String
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 
