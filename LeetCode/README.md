@@ -40,7 +40,6 @@
 - [3408 Design Task Manager](./3408-design-task-manager)
 
 ## Math
-- [0326 Power of Three](./0326-power-of-three)
 - [1344 Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock)
 - [1518 Water Bottles](./1518-water-bottles)
 - [1840 Maximum Building Height](./1840-maximum-building-height)
@@ -62,9 +61,6 @@
 - [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 - [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 - [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
-
-## Recursion
-- [0326 Power of Three](./0326-power-of-three)
 
 ## Segment Tree
 - [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
