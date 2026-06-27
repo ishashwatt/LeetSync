@@ -2,7 +2,6 @@
 
 ## Array
 - [0169 Majority Element](./0169-majority-element)
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 
 ## Counting
 - [0169 Majority Element](./0169-majority-element)
@@ -12,12 +11,6 @@
 
 ## Hash Table
 - [0169 Majority Element](./0169-majority-element)
-
-## Matrix
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
-
-## Prefix Sum
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 
 ## Sorting
 - [0169 Majority Element](./0169-majority-element)
