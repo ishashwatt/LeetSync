@@ -1,31 +1,20 @@
 # LeetCode Topics
 
 ## Array
-- [0724 Find Pivot Index](./0724-find-pivot-index)
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
+- [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
 
-## Design
-- [3408 Design Task Manager](./3408-design-task-manager)
+## Divide and Conquer
+- [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
 
 ## Hash Table
-- [3408 Design Task Manager](./3408-design-task-manager)
+- [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
 
-## Heap (Priority Queue)
-- [3408 Design Task Manager](./3408-design-task-manager)
-
-## Math
-- [0326 Power of Three](./0326-power-of-three)
-
-## Matrix
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
-
-## Ordered Set
-- [3408 Design Task Manager](./3408-design-task-manager)
+## Merge Sort
+- [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
 
 ## Prefix Sum
-- [0724 Find Pivot Index](./0724-find-pivot-index)
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
+- [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
 
-## Recursion
-- [0326 Power of Three](./0326-power-of-three)
+## Segment Tree
+- [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
 
