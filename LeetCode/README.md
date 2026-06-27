@@ -5,7 +5,6 @@
 - [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
 - [1840 Maximum Building Height](./1840-maximum-building-height)
 - [1929 Concatenation of Array](./1929-concatenation-of-array)
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 - [3020 Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset)
 - [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
 
@@ -41,14 +40,12 @@
 
 ## Matrix
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 
 ## Merge Sort
 - [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
 
 ## Prefix Sum
 - [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 - [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 - [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
 
