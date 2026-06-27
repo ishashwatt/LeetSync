@@ -1,11 +1,14 @@
 # LeetCode Topics
 
-## Array
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
+## Design
+- [3408 Design Task Manager](./3408-design-task-manager)
 
-## Matrix
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
+## Hash Table
+- [3408 Design Task Manager](./3408-design-task-manager)
 
-## Prefix Sum
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
+## Heap (Priority Queue)
+- [3408 Design Task Manager](./3408-design-task-manager)
+
+## Ordered Set
+- [3408 Design Task Manager](./3408-design-task-manager)
 
