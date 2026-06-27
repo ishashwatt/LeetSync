@@ -1,24 +1,24 @@
 # LeetCode Topics
 
-## Array
-- [0169 Majority Element](./0169-majority-element)
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
-
-## Counting
-- [0169 Majority Element](./0169-majority-element)
-
-## Divide and Conquer
-- [0169 Majority Element](./0169-majority-element)
+## Design
+- [3408 Design Task Manager](./3408-design-task-manager)
 
 ## Hash Table
-- [0169 Majority Element](./0169-majority-element)
+- [3408 Design Task Manager](./3408-design-task-manager)
 
-## Matrix
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
+## Heap (Priority Queue)
+- [3408 Design Task Manager](./3408-design-task-manager)
 
-## Prefix Sum
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
+## Math
+- [0326 Power of Three](./0326-power-of-three)
+- [1518 Water Bottles](./1518-water-bottles)
 
-## Sorting
-- [0169 Majority Element](./0169-majority-element)
+## Ordered Set
+- [3408 Design Task Manager](./3408-design-task-manager)
+
+## Recursion
+- [0326 Power of Three](./0326-power-of-three)
+
+## Simulation
+- [1518 Water Bottles](./1518-water-bottles)
 
