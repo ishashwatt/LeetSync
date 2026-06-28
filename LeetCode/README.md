@@ -1,11 +1,18 @@
 # LeetCode Topics
 
 ## Array
-- [1929 Concatenation of Array](./1929-concatenation-of-array)
+- [1846 Maximum Element After Decreasing and Rearranging](./1846-maximum-element-after-decreasing-and-rearranging)
+- [3020 Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset)
 
-## Math
-- [1344 Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock)
+## Enumeration
+- [3020 Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset)
 
-## Simulation
-- [1929 Concatenation of Array](./1929-concatenation-of-array)
+## Greedy
+- [1846 Maximum Element After Decreasing and Rearranging](./1846-maximum-element-after-decreasing-and-rearranging)
+
+## Hash Table
+- [3020 Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset)
+
+## Sorting
+- [1846 Maximum Element After Decreasing and Rearranging](./1846-maximum-element-after-decreasing-and-rearranging)
 
