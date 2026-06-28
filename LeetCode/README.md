@@ -2,19 +2,12 @@
 
 ## Array
 - [0724 Find Pivot Index](./0724-find-pivot-index)
+- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 
-## Design
-- [3408 Design Task Manager](./3408-design-task-manager)
-
-## Hash Table
-- [3408 Design Task Manager](./3408-design-task-manager)
-
-## Heap (Priority Queue)
-- [3408 Design Task Manager](./3408-design-task-manager)
-
-## Ordered Set
-- [3408 Design Task Manager](./3408-design-task-manager)
+## Matrix
+- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 
 ## Prefix Sum
 - [0724 Find Pivot Index](./0724-find-pivot-index)
+- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 
