@@ -1,13 +1,11 @@
 # LeetCode Topics
 
 ## Array
-- [0724 Find Pivot Index](./0724-find-pivot-index)
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
+- [3020 Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset)
 
-## Matrix
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
+## Enumeration
+- [3020 Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset)
 
-## Prefix Sum
-- [0724 Find Pivot Index](./0724-find-pivot-index)
-- [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
+## Hash Table
+- [3020 Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset)
 
