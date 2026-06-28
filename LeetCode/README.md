@@ -1,36 +1,36 @@
 # LeetCode Topics
 
 ## Array
+- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 - [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
-- [3020 Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset)
-- [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
 
-## Divide and Conquer
-- [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
+## Breadth-First Search
+- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 
-## Dynamic Programming
-- [3700 Number of ZigZag Arrays II](./3700-number-of-zigzag-arrays-ii)
-
-## Enumeration
-- [3020 Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset)
+## Design
+- [3408 Design Task Manager](./3408-design-task-manager)
 
 ## Hash Table
-- [3020 Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset)
-- [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
+- [3408 Design Task Manager](./3408-design-task-manager)
+
+## Heap (Priority Queue)
+- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
+- [3408 Design Task Manager](./3408-design-task-manager)
 
 ## Math
-- [3700 Number of ZigZag Arrays II](./3700-number-of-zigzag-arrays-ii)
+- [1344 Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock)
+- [1518 Water Bottles](./1518-water-bottles)
 
 ## Matrix
+- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 - [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 
-## Merge Sort
-- [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
+## Ordered Set
+- [3408 Design Task Manager](./3408-design-task-manager)
 
 ## Prefix Sum
 - [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
-- [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
 
-## Segment Tree
-- [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
+## Simulation
+- [1518 Water Bottles](./1518-water-bottles)
 
