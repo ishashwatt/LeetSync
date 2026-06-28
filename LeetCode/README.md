@@ -1,7 +1,6 @@
 # LeetCode Topics
 
 ## Array
-- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 - [0724 Find Pivot Index](./0724-find-pivot-index)
 - [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
 - [1840 Maximum Building Height](./1840-maximum-building-height)
@@ -9,9 +8,6 @@
 - [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 - [3020 Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset)
 - [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
-
-## Breadth-First Search
-- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 
 ## Counting
 - [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
@@ -36,7 +32,6 @@
 - [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
 
 ## Heap (Priority Queue)
-- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 - [3408 Design Task Manager](./3408-design-task-manager)
 
 ## Math
@@ -47,7 +42,6 @@
 - [3700 Number of ZigZag Arrays II](./3700-number-of-zigzag-arrays-ii)
 
 ## Matrix
-- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 - [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 
 ## Merge Sort
