@@ -2,7 +2,6 @@
 
 ## Array
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
-- [0724 Find Pivot Index](./0724-find-pivot-index)
 - [1929 Concatenation of Array](./1929-concatenation-of-array)
 - [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 
@@ -32,7 +31,6 @@
 - [3408 Design Task Manager](./3408-design-task-manager)
 
 ## Prefix Sum
-- [0724 Find Pivot Index](./0724-find-pivot-index)
 - [2428 Maximum Sum of an Hourglass](./2428-maximum-sum-of-an-hourglass)
 
 ## Recursion
