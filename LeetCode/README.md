@@ -3,7 +3,6 @@
 ## Array
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 - [0724 Find Pivot Index](./0724-find-pivot-index)
-- [1929 Concatenation of Array](./1929-concatenation-of-array)
 
 ## Breadth-First Search
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
@@ -37,5 +36,4 @@
 
 ## Simulation
 - [1518 Water Bottles](./1518-water-bottles)
-- [1929 Concatenation of Array](./1929-concatenation-of-array)
 
