@@ -1,14 +1,18 @@
 # LeetCode Topics
 
 ## Array
-- [0724 Find Pivot Index](./0724-find-pivot-index)
+- [1846 Maximum Element After Decreasing and Rearranging](./1846-maximum-element-after-decreasing-and-rearranging)
+- [3020 Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset)
 
-## Math
-- [0326 Power of Three](./0326-power-of-three)
+## Enumeration
+- [3020 Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset)
 
-## Prefix Sum
-- [0724 Find Pivot Index](./0724-find-pivot-index)
+## Greedy
+- [1846 Maximum Element After Decreasing and Rearranging](./1846-maximum-element-after-decreasing-and-rearranging)
 
-## Recursion
-- [0326 Power of Three](./0326-power-of-three)
+## Hash Table
+- [3020 Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset)
+
+## Sorting
+- [1846 Maximum Element After Decreasing and Rearranging](./1846-maximum-element-after-decreasing-and-rearranging)
 
