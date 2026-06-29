@@ -9,6 +9,12 @@
 ## Heap (Priority Queue)
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 
+## Math
+- [0326 Power of Three](./0326-power-of-three)
+
 ## Matrix
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
+
+## Recursion
+- [0326 Power of Three](./0326-power-of-three)
 
