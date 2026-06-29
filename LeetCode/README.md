@@ -2,7 +2,7 @@
 
 ## Array
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
-- [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
+- [0724 Find Pivot Index](./0724-find-pivot-index)
 - [1929 Concatenation of Array](./1929-concatenation-of-array)
 
 ## Breadth-First Search
@@ -30,7 +30,7 @@
 - [3408 Design Task Manager](./3408-design-task-manager)
 
 ## Prefix Sum
-- [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
+- [0724 Find Pivot Index](./0724-find-pivot-index)
 
 ## Recursion
 - [0326 Power of Three](./0326-power-of-three)
