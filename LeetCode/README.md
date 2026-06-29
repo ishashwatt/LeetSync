@@ -1,14 +1,24 @@
 # LeetCode Topics
 
-## Array
-- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
+## Design
+- [3408 Design Task Manager](./3408-design-task-manager)
 
-## Breadth-First Search
-- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
+## Hash Table
+- [3408 Design Task Manager](./3408-design-task-manager)
 
 ## Heap (Priority Queue)
-- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
+- [3408 Design Task Manager](./3408-design-task-manager)
 
-## Matrix
-- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
+## Math
+- [0326 Power of Three](./0326-power-of-three)
+- [1518 Water Bottles](./1518-water-bottles)
+
+## Ordered Set
+- [3408 Design Task Manager](./3408-design-task-manager)
+
+## Recursion
+- [0326 Power of Three](./0326-power-of-three)
+
+## Simulation
+- [1518 Water Bottles](./1518-water-bottles)
 
