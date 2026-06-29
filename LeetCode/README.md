@@ -9,9 +9,6 @@
 ## Heap (Priority Queue)
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 
-## Math
-- [1344 Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock)
-
 ## Matrix
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 
