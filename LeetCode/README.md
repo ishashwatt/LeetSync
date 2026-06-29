@@ -2,7 +2,6 @@
 
 ## Array
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
-- [0724 Find Pivot Index](./0724-find-pivot-index)
 
 ## Breadth-First Search
 - [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
@@ -27,9 +26,6 @@
 
 ## Ordered Set
 - [3408 Design Task Manager](./3408-design-task-manager)
-
-## Prefix Sum
-- [0724 Find Pivot Index](./0724-find-pivot-index)
 
 ## Recursion
 - [0326 Power of Three](./0326-power-of-three)
