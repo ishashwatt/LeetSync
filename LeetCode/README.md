@@ -32,6 +32,7 @@
 - [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
 
 ## Math
+- [1344 Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock)
 - [1840 Maximum Building Height](./1840-maximum-building-height)
 - [3700 Number of ZigZag Arrays II](./3700-number-of-zigzag-arrays-ii)
 
