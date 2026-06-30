@@ -1,14 +1,43 @@
 # LeetCode Topics
 
-## Design
-- [3408 Design Task Manager](./3408-design-task-manager)
+## Array
+- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
+- [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
+- [1840 Maximum Building Height](./1840-maximum-building-height)
+- [1929 Concatenation of Array](./1929-concatenation-of-array)
+
+## Breadth-First Search
+- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
+
+## Counting
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
+
+## Dynamic Programming
+- [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 
 ## Hash Table
-- [3408 Design Task Manager](./3408-design-task-manager)
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 
 ## Heap (Priority Queue)
-- [3408 Design Task Manager](./3408-design-task-manager)
+- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 
-## Ordered Set
-- [3408 Design Task Manager](./3408-design-task-manager)
+## Math
+- [1344 Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock)
+- [1840 Maximum Building Height](./1840-maximum-building-height)
+
+## Matrix
+- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
+
+## Prefix Sum
+- [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
+- [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
+
+## Simulation
+- [1929 Concatenation of Array](./1929-concatenation-of-array)
+
+## Sorting
+- [1840 Maximum Building Height](./1840-maximum-building-height)
+
+## String
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 
