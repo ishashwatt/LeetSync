@@ -41,6 +41,7 @@
 - [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
 
 ## Math
+- [1518 Water Bottles](./1518-water-bottles)
 - [1840 Maximum Building Height](./1840-maximum-building-height)
 - [3700 Number of ZigZag Arrays II](./3700-number-of-zigzag-arrays-ii)
 
@@ -57,6 +58,9 @@
 
 ## Segment Tree
 - [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
+
+## Simulation
+- [1518 Water Bottles](./1518-water-bottles)
 
 ## Sliding Window
 - [1358 Number of Substrings Containing All Three Characters](./1358-number-of-substrings-containing-all-three-characters)
