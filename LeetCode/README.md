@@ -1,8 +1,34 @@
 # LeetCode Topics
 
-## Math
-- [1518 Water Bottles](./1518-water-bottles)
+## Array
+- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
+- [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
+- [1840 Maximum Building Height](./1840-maximum-building-height)
 
-## Simulation
-- [1518 Water Bottles](./1518-water-bottles)
+## Breadth-First Search
+- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
+
+## Counting
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
+
+## Hash Table
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
+
+## Heap (Priority Queue)
+- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
+
+## Math
+- [1840 Maximum Building Height](./1840-maximum-building-height)
+
+## Matrix
+- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
+
+## Prefix Sum
+- [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
+
+## Sorting
+- [1840 Maximum Building Height](./1840-maximum-building-height)
+
+## String
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 
