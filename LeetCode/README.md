@@ -4,7 +4,6 @@
 - [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
 - [1840 Maximum Building Height](./1840-maximum-building-height)
 - [1846 Maximum Element After Decreasing and Rearranging](./1846-maximum-element-after-decreasing-and-rearranging)
-- [1929 Concatenation of Array](./1929-concatenation-of-array)
 - [1967 Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word)
 - [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
 - [3020 Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset)
@@ -58,9 +57,6 @@
 
 ## Segment Tree
 - [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
-
-## Simulation
-- [1929 Concatenation of Array](./1929-concatenation-of-array)
 
 ## Sliding Window
 - [1358 Number of Substrings Containing All Three Characters](./1358-number-of-substrings-containing-all-three-characters)
