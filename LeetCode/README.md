@@ -1,36 +1,32 @@
 # LeetCode Topics
 
 ## Array
-- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
-- [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
+- [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
+- [1840 Maximum Building Height](./1840-maximum-building-height)
+- [1929 Concatenation of Array](./1929-concatenation-of-array)
 
-## Binary Search
-- [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
+## Counting
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 
-## Breadth-First Search
-- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
-- [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
+## Dynamic Programming
+- [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 
 ## Hash Table
-- [1358 Number of Substrings Containing All Three Characters](./1358-number-of-substrings-containing-all-three-characters)
-
-## Heap (Priority Queue)
-- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
-- [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 
 ## Math
-- [1344 Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock)
+- [1840 Maximum Building Height](./1840-maximum-building-height)
 
-## Matrix
-- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
-- [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
+## Prefix Sum
+- [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
+- [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
 
-## Sliding Window
-- [1358 Number of Substrings Containing All Three Characters](./1358-number-of-substrings-containing-all-three-characters)
+## Simulation
+- [1929 Concatenation of Array](./1929-concatenation-of-array)
+
+## Sorting
+- [1840 Maximum Building Height](./1840-maximum-building-height)
 
 ## String
-- [1358 Number of Substrings Containing All Three Characters](./1358-number-of-substrings-containing-all-three-characters)
-
-## Union-Find
-- [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
+- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 
