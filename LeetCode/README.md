@@ -1,86 +1,102 @@
 # LeetCode Topics
 
 ## Array
-- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
-- [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
-- [1840 Maximum Building Height](./1840-maximum-building-height)
+- [1288 Remove Covered Intervals](./1288-remove-covered-intervals)
+- [1301 Number of Paths with Max Score](./1301-number-of-paths-with-max-score)
+- [1331 Rank Transform of an Array](./1331-rank-transform-of-an-array)
 - [1846 Maximum Element After Decreasing and Rearranging](./1846-maximum-element-after-decreasing-and-rearranging)
-- [1929 Concatenation of Array](./1929-concatenation-of-array)
 - [1967 Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word)
 - [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
-- [3020 Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset)
-- [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
+- [3286 Find a Safe Walk Through a Grid](./3286-find-a-safe-walk-through-a-grid)
+- [3532 Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i)
+- [3534 Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii)
+- [3620 Network Recovery Pathways](./3620-network-recovery-pathways)
 
 ## Binary Search
 - [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
+- [3532 Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i)
+- [3534 Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii)
+- [3620 Network Recovery Pathways](./3620-network-recovery-pathways)
+
+## Bit Manipulation
+- [3534 Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii)
 
 ## Breadth-First Search
-- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
+- [2492 Minimum Score of a Path Between Two Cities](./2492-minimum-score-of-a-path-between-two-cities)
+- [2685 Count the Number of Complete Components](./2685-count-the-number-of-complete-components)
 - [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
+- [3286 Find a Safe Walk Through a Grid](./3286-find-a-safe-walk-through-a-grid)
 
-## Counting
-- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
-
-## Divide and Conquer
-- [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
+## Depth-First Search
+- [2492 Minimum Score of a Path Between Two Cities](./2492-minimum-score-of-a-path-between-two-cities)
+- [2685 Count the Number of Complete Components](./2685-count-the-number-of-complete-components)
 
 ## Dynamic Programming
-- [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
-- [3700 Number of ZigZag Arrays II](./3700-number-of-zigzag-arrays-ii)
+- [1301 Number of Paths with Max Score](./1301-number-of-paths-with-max-score)
+- [3534 Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii)
+- [3620 Network Recovery Pathways](./3620-network-recovery-pathways)
 
-## Enumeration
-- [3020 Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset)
+## Graph Theory
+- [2492 Minimum Score of a Path Between Two Cities](./2492-minimum-score-of-a-path-between-two-cities)
+- [2685 Count the Number of Complete Components](./2685-count-the-number-of-complete-components)
+- [3286 Find a Safe Walk Through a Grid](./3286-find-a-safe-walk-through-a-grid)
+- [3532 Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i)
+- [3534 Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii)
+- [3620 Network Recovery Pathways](./3620-network-recovery-pathways)
 
 ## Greedy
 - [1846 Maximum Element After Decreasing and Rearranging](./1846-maximum-element-after-decreasing-and-rearranging)
+- [3534 Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii)
 
 ## Hash Table
-- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
+- [1331 Rank Transform of an Array](./1331-rank-transform-of-an-array)
 - [1358 Number of Substrings Containing All Three Characters](./1358-number-of-substrings-containing-all-three-characters)
-- [3020 Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset)
-- [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
+- [3532 Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i)
 
 ## Heap (Priority Queue)
-- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
 - [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
+- [3286 Find a Safe Walk Through a Grid](./3286-find-a-safe-walk-through-a-grid)
+- [3620 Network Recovery Pathways](./3620-network-recovery-pathways)
 
 ## Math
-- [1344 Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock)
-- [1518 Water Bottles](./1518-water-bottles)
-- [1840 Maximum Building Height](./1840-maximum-building-height)
-- [3700 Number of ZigZag Arrays II](./3700-number-of-zigzag-arrays-ii)
+- [3754 Concatenate Non-Zero Digits and Multiply by Sum I](./3754-concatenate-non-zero-digits-and-multiply-by-sum-i)
+- [3756 Concatenate Non-Zero Digits and Multiply by Sum II](./3756-concatenate-non-zero-digits-and-multiply-by-sum-ii)
 
 ## Matrix
-- [0407 Trapping Rain Water II](./0407-trapping-rain-water-ii)
+- [1301 Number of Paths with Max Score](./1301-number-of-paths-with-max-score)
 - [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
-
-## Merge Sort
-- [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
+- [3286 Find a Safe Walk Through a Grid](./3286-find-a-safe-walk-through-a-grid)
 
 ## Prefix Sum
-- [1732 Find the Highest Altitude](./1732-find-the-highest-altitude)
-- [3699 Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i)
-- [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
+- [3756 Concatenate Non-Zero Digits and Multiply by Sum II](./3756-concatenate-non-zero-digits-and-multiply-by-sum-ii)
 
-## Segment Tree
-- [3739 Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii)
-
-## Simulation
-- [1518 Water Bottles](./1518-water-bottles)
-- [1929 Concatenation of Array](./1929-concatenation-of-array)
+## Shortest Path
+- [3286 Find a Safe Walk Through a Grid](./3286-find-a-safe-walk-through-a-grid)
+- [3620 Network Recovery Pathways](./3620-network-recovery-pathways)
 
 ## Sliding Window
 - [1358 Number of Substrings Containing All Three Characters](./1358-number-of-substrings-containing-all-three-characters)
 
 ## Sorting
-- [1840 Maximum Building Height](./1840-maximum-building-height)
+- [1288 Remove Covered Intervals](./1288-remove-covered-intervals)
+- [1331 Rank Transform of an Array](./1331-rank-transform-of-an-array)
 - [1846 Maximum Element After Decreasing and Rearranging](./1846-maximum-element-after-decreasing-and-rearranging)
+- [3534 Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii)
 
 ## String
-- [1189 Maximum Number of Balloons](./1189-maximum-number-of-balloons)
 - [1358 Number of Substrings Containing All Three Characters](./1358-number-of-substrings-containing-all-three-characters)
 - [1967 Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word)
+- [3756 Concatenate Non-Zero Digits and Multiply by Sum II](./3756-concatenate-non-zero-digits-and-multiply-by-sum-ii)
+
+## Topological Sort
+- [3620 Network Recovery Pathways](./3620-network-recovery-pathways)
+
+## Two Pointers
+- [3534 Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii)
 
 ## Union-Find
+- [2492 Minimum Score of a Path Between Two Cities](./2492-minimum-score-of-a-path-between-two-cities)
+- [2685 Count the Number of Complete Components](./2685-count-the-number-of-complete-components)
 - [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
+- [3532 Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i)
 
