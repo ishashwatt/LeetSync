@@ -1,106 +1,110 @@
 # LeetCode Topics
 
 ## Array
-- [1288 Remove Covered Intervals](./1288-remove-covered-intervals)
-- [1301 Number of Paths with Max Score](./1301-number-of-paths-with-max-score)
+- [1260 Shift 2D Grid](./1260-shift-2d-grid)
 - [1331 Rank Transform of an Array](./1331-rank-transform-of-an-array)
-- [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
-- [3286 Find a Safe Walk Through a Grid](./3286-find-a-safe-walk-through-a-grid)
+- [1979 Find Greatest Common Divisor of Array](./1979-find-greatest-common-divisor-of-array)
+- [3312 Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries)
 - [3336 Find the Number of Subsequences With Equal GCD](./3336-find-the-number-of-subsequences-with-equal-gcd)
+- [3501 Maximize Active Section with Trade II](./3501-maximize-active-section-with-trade-ii)
 - [3532 Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i)
 - [3534 Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii)
-- [3620 Network Recovery Pathways](./3620-network-recovery-pathways)
+- [3867 Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs)
 
 ## Binary Search
-- [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
+- [3312 Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries)
+- [3501 Maximize Active Section with Trade II](./3501-maximize-active-section-with-trade-ii)
 - [3532 Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i)
 - [3534 Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii)
-- [3620 Network Recovery Pathways](./3620-network-recovery-pathways)
 
 ## Bit Manipulation
 - [3534 Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii)
 
 ## Breadth-First Search
-- [2492 Minimum Score of a Path Between Two Cities](./2492-minimum-score-of-a-path-between-two-cities)
 - [2685 Count the Number of Complete Components](./2685-count-the-number-of-complete-components)
-- [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
-- [3286 Find a Safe Walk Through a Grid](./3286-find-a-safe-walk-through-a-grid)
+
+## Combinatorics
+- [3312 Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries)
+
+## Counting
+- [3312 Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries)
 
 ## Depth-First Search
-- [2492 Minimum Score of a Path Between Two Cities](./2492-minimum-score-of-a-path-between-two-cities)
 - [2685 Count the Number of Complete Components](./2685-count-the-number-of-complete-components)
 
 ## Dynamic Programming
-- [1301 Number of Paths with Max Score](./1301-number-of-paths-with-max-score)
 - [3336 Find the Number of Subsequences With Equal GCD](./3336-find-the-number-of-subsequences-with-equal-gcd)
 - [3534 Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii)
-- [3620 Network Recovery Pathways](./3620-network-recovery-pathways)
 
 ## Enumeration
 - [1291 Sequential Digits](./1291-sequential-digits)
+- [3499 Maximize Active Section with Trade I](./3499-maximize-active-section-with-trade-i)
 
 ## Graph Theory
-- [2492 Minimum Score of a Path Between Two Cities](./2492-minimum-score-of-a-path-between-two-cities)
 - [2685 Count the Number of Complete Components](./2685-count-the-number-of-complete-components)
-- [3286 Find a Safe Walk Through a Grid](./3286-find-a-safe-walk-through-a-grid)
 - [3532 Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i)
 - [3534 Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii)
-- [3620 Network Recovery Pathways](./3620-network-recovery-pathways)
 
 ## Greedy
+- [1081 Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters)
 - [3534 Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii)
 
 ## Hash Table
 - [1331 Rank Transform of an Array](./1331-rank-transform-of-an-array)
-- [1358 Number of Substrings Containing All Three Characters](./1358-number-of-substrings-containing-all-three-characters)
+- [3312 Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries)
 - [3532 Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i)
 
-## Heap (Priority Queue)
-- [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
-- [3286 Find a Safe Walk Through a Grid](./3286-find-a-safe-walk-through-a-grid)
-- [3620 Network Recovery Pathways](./3620-network-recovery-pathways)
-
 ## Math
+- [1979 Find Greatest Common Divisor of Array](./1979-find-greatest-common-divisor-of-array)
+- [3312 Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries)
 - [3336 Find the Number of Subsequences With Equal GCD](./3336-find-the-number-of-subsequences-with-equal-gcd)
-- [3754 Concatenate Non-Zero Digits and Multiply by Sum I](./3754-concatenate-non-zero-digits-and-multiply-by-sum-i)
+- [3658 GCD of Odd and Even Sums](./3658-gcd-of-odd-and-even-sums)
 - [3756 Concatenate Non-Zero Digits and Multiply by Sum II](./3756-concatenate-non-zero-digits-and-multiply-by-sum-ii)
+- [3867 Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs)
 
 ## Matrix
-- [1301 Number of Paths with Max Score](./1301-number-of-paths-with-max-score)
-- [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
-- [3286 Find a Safe Walk Through a Grid](./3286-find-a-safe-walk-through-a-grid)
+- [1260 Shift 2D Grid](./1260-shift-2d-grid)
+
+## Monotonic Stack
+- [1081 Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters)
 
 ## Number Theory
+- [1979 Find Greatest Common Divisor of Array](./1979-find-greatest-common-divisor-of-array)
+- [3312 Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries)
 - [3336 Find the Number of Subsequences With Equal GCD](./3336-find-the-number-of-subsequences-with-equal-gcd)
+- [3658 GCD of Odd and Even Sums](./3658-gcd-of-odd-and-even-sums)
+- [3867 Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs)
 
 ## Prefix Sum
+- [3312 Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries)
 - [3756 Concatenate Non-Zero Digits and Multiply by Sum II](./3756-concatenate-non-zero-digits-and-multiply-by-sum-ii)
 
-## Shortest Path
-- [3286 Find a Safe Walk Through a Grid](./3286-find-a-safe-walk-through-a-grid)
-- [3620 Network Recovery Pathways](./3620-network-recovery-pathways)
+## Segment Tree
+- [3501 Maximize Active Section with Trade II](./3501-maximize-active-section-with-trade-ii)
 
-## Sliding Window
-- [1358 Number of Substrings Containing All Three Characters](./1358-number-of-substrings-containing-all-three-characters)
+## Simulation
+- [1260 Shift 2D Grid](./1260-shift-2d-grid)
+- [3867 Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs)
 
 ## Sorting
-- [1288 Remove Covered Intervals](./1288-remove-covered-intervals)
 - [1331 Rank Transform of an Array](./1331-rank-transform-of-an-array)
 - [3534 Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii)
+- [3867 Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs)
+
+## Stack
+- [1081 Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters)
 
 ## String
-- [1358 Number of Substrings Containing All Three Characters](./1358-number-of-substrings-containing-all-three-characters)
+- [1081 Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters)
+- [3499 Maximize Active Section with Trade I](./3499-maximize-active-section-with-trade-i)
+- [3501 Maximize Active Section with Trade II](./3501-maximize-active-section-with-trade-ii)
 - [3756 Concatenate Non-Zero Digits and Multiply by Sum II](./3756-concatenate-non-zero-digits-and-multiply-by-sum-ii)
-
-## Topological Sort
-- [3620 Network Recovery Pathways](./3620-network-recovery-pathways)
 
 ## Two Pointers
 - [3534 Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii)
+- [3867 Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs)
 
 ## Union-Find
-- [2492 Minimum Score of a Path Between Two Cities](./2492-minimum-score-of-a-path-between-two-cities)
 - [2685 Count the Number of Complete Components](./2685-count-the-number-of-complete-components)
-- [2812 Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid)
 - [3532 Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i)
 
